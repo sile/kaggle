@@ -8,7 +8,7 @@ from chainer.training import extensions
 #
 # Parameters
 #
-epoch = 100
+epoch = 50
 batchsize = 4
 
 #
